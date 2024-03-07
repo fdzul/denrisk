@@ -1,6 +1,6 @@
 Package: denrisk
 Type: Package
-Title: Datasets of potential dengue transmission in Mexico
+Title: Spatial datasets of potential dengue transmission in Mexico.
 Version: 0.1.0
 Authors@R: c(person(given = "Felipe Antonio",
                         family = "Dzul Manzanilla",
@@ -13,7 +13,7 @@ Authors@R: c(person(given = "Felipe Antonio",
                         email = "fabiancorrea@msn.com",
                         comment = c(ORCID = "https://orcid.org/0000-0002-6193-1242")))
 Maintainer: The package maintainer <felipe.dzul.m@gmail.com>
-Description: The denrisk package provides spatial databases of the potential transmission of dengue in Mexico
+Description: The denrisk package provides spatial dataset for the potential transmission of dengue in Mexico
 License: MIT + file LICENSE
 URL: https://github.com/fdzul/denrisk, https://fdzul.github.io/denrisk/
 BugReports: https://github.com/fdzul/popmex/issues
